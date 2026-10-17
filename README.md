@@ -35,11 +35,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DevVivas/graphql-react-mongodb"><b>API GraphQl - UI REACT</b></a></td>
+      <td><a href="https://github.com/DevVivas/app-aquachile-reclutamiento"><b>AquaChile App-Reclutamiento</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/DevVivas/apollo-express-mongodb"><b>API Apollo - Express - MongoDB</
+      <td><a href="https://github.com/DevVivas/app-product-mapper"><b>ProductMapper App-Equivalencia-Productos</
     <tr>
+	<tr>
+      <td><a href="https://github.com/DevVivas/aldemar-chile-muestreo"><b>Aldemar App-Toma-Muestra</b></a></td>
+    </tr>
     </tr>
   </tbody>
 </table>
